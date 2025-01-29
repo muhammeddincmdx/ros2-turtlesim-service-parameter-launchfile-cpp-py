@@ -1,0 +1,6 @@
+[console_scripts]
+publisher_py = ros2_tutorials_py.publisher:main
+py_service_client = ros2_tutorials_py.service_client:main
+py_service_server = ros2_tutorials_py.service_server:main
+subscriber_py = ros2_tutorials_py.subscriber:main
+template_publisher = ros2_tutorials_py.template_oop_publisher:main

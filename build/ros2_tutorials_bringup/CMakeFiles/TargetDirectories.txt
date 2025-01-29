@@ -1,0 +1,9 @@
+/home/lenovo/Desktop/mogi_ws/build/ros2_tutorials_bringup/CMakeFiles/uninstall.dir
+/home/lenovo/Desktop/mogi_ws/build/ros2_tutorials_bringup/CMakeFiles/ros2_tutorials_bringup_uninstall.dir
+/home/lenovo/Desktop/mogi_ws/build/ros2_tutorials_bringup/CMakeFiles/test.dir
+/home/lenovo/Desktop/mogi_ws/build/ros2_tutorials_bringup/CMakeFiles/edit_cache.dir
+/home/lenovo/Desktop/mogi_ws/build/ros2_tutorials_bringup/CMakeFiles/rebuild_cache.dir
+/home/lenovo/Desktop/mogi_ws/build/ros2_tutorials_bringup/CMakeFiles/list_install_components.dir
+/home/lenovo/Desktop/mogi_ws/build/ros2_tutorials_bringup/CMakeFiles/install.dir
+/home/lenovo/Desktop/mogi_ws/build/ros2_tutorials_bringup/CMakeFiles/install/local.dir
+/home/lenovo/Desktop/mogi_ws/build/ros2_tutorials_bringup/CMakeFiles/install/strip.dir

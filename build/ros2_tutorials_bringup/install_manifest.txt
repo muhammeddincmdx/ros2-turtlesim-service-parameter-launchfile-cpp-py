@@ -1,0 +1,16 @@
+/home/lenovo/Desktop/mogi_ws/install/ros2_tutorials_bringup/share/ros2_tutorials_bringup/launch/publisher_subscriber.launch.py
+/home/lenovo/Desktop/mogi_ws/install/ros2_tutorials_bringup/share/ament_index/resource_index/package_run_dependencies/ros2_tutorials_bringup
+/home/lenovo/Desktop/mogi_ws/install/ros2_tutorials_bringup/share/ament_index/resource_index/parent_prefix_path/ros2_tutorials_bringup
+/home/lenovo/Desktop/mogi_ws/install/ros2_tutorials_bringup/share/ros2_tutorials_bringup/environment/ament_prefix_path.sh
+/home/lenovo/Desktop/mogi_ws/install/ros2_tutorials_bringup/share/ros2_tutorials_bringup/environment/ament_prefix_path.dsv
+/home/lenovo/Desktop/mogi_ws/install/ros2_tutorials_bringup/share/ros2_tutorials_bringup/environment/path.sh
+/home/lenovo/Desktop/mogi_ws/install/ros2_tutorials_bringup/share/ros2_tutorials_bringup/environment/path.dsv
+/home/lenovo/Desktop/mogi_ws/install/ros2_tutorials_bringup/share/ros2_tutorials_bringup/local_setup.bash
+/home/lenovo/Desktop/mogi_ws/install/ros2_tutorials_bringup/share/ros2_tutorials_bringup/local_setup.sh
+/home/lenovo/Desktop/mogi_ws/install/ros2_tutorials_bringup/share/ros2_tutorials_bringup/local_setup.zsh
+/home/lenovo/Desktop/mogi_ws/install/ros2_tutorials_bringup/share/ros2_tutorials_bringup/local_setup.dsv
+/home/lenovo/Desktop/mogi_ws/install/ros2_tutorials_bringup/share/ros2_tutorials_bringup/package.dsv
+/home/lenovo/Desktop/mogi_ws/install/ros2_tutorials_bringup/share/ament_index/resource_index/packages/ros2_tutorials_bringup
+/home/lenovo/Desktop/mogi_ws/install/ros2_tutorials_bringup/share/ros2_tutorials_bringup/cmake/ros2_tutorials_bringupConfig.cmake
+/home/lenovo/Desktop/mogi_ws/install/ros2_tutorials_bringup/share/ros2_tutorials_bringup/cmake/ros2_tutorials_bringupConfig-version.cmake
+/home/lenovo/Desktop/mogi_ws/install/ros2_tutorials_bringup/share/ros2_tutorials_bringup/package.xml

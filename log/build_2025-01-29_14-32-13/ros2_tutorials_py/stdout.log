@@ -1,0 +1,22 @@
+running egg_info
+writing ../../build/ros2_tutorials_py/ros2_tutorials_py.egg-info/PKG-INFO
+writing dependency_links to ../../build/ros2_tutorials_py/ros2_tutorials_py.egg-info/dependency_links.txt
+writing entry points to ../../build/ros2_tutorials_py/ros2_tutorials_py.egg-info/entry_points.txt
+writing requirements to ../../build/ros2_tutorials_py/ros2_tutorials_py.egg-info/requires.txt
+writing top-level names to ../../build/ros2_tutorials_py/ros2_tutorials_py.egg-info/top_level.txt
+reading manifest file '../../build/ros2_tutorials_py/ros2_tutorials_py.egg-info/SOURCES.txt'
+writing manifest file '../../build/ros2_tutorials_py/ros2_tutorials_py.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+running install_egg_info
+removing '/home/lenovo/Desktop/mogi_ws/install/ros2_tutorials_py/lib/python3.12/site-packages/ros2_tutorials_py-0.0.0-py3.12.egg-info' (and everything under it)
+Copying ../../build/ros2_tutorials_py/ros2_tutorials_py.egg-info to /home/lenovo/Desktop/mogi_ws/install/ros2_tutorials_py/lib/python3.12/site-packages/ros2_tutorials_py-0.0.0-py3.12.egg-info
+running install_scripts
+Installing publisher_py script to /home/lenovo/Desktop/mogi_ws/install/ros2_tutorials_py/lib/ros2_tutorials_py
+Installing py_service_server script to /home/lenovo/Desktop/mogi_ws/install/ros2_tutorials_py/lib/ros2_tutorials_py
+Installing subscriber_py script to /home/lenovo/Desktop/mogi_ws/install/ros2_tutorials_py/lib/ros2_tutorials_py
+Installing template_publisher script to /home/lenovo/Desktop/mogi_ws/install/ros2_tutorials_py/lib/ros2_tutorials_py
+writing list of installed files to '/home/lenovo/Desktop/mogi_ws/build/ros2_tutorials_py/install.log'

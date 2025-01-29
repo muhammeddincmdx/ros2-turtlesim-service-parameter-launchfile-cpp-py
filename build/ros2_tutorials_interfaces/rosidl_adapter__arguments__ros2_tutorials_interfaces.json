@@ -1,0 +1,6 @@
+{
+  "package_name": "ros2_tutorials_interfaces",
+  "non_idl_tuples": [
+    "/home/lenovo/Desktop/mogi_ws/src/ros2_tutorials_interfaces:srv/CustomCalc.srv"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "package_name": "ros2_tutorials_interfaces",
+  "output_dir": "/home/lenovo/Desktop/mogi_ws/build/ros2_tutorials_interfaces/rosidl_generator_type_description/ros2_tutorials_interfaces",
+  "idl_tuples": [
+    "/home/lenovo/Desktop/mogi_ws/build/ros2_tutorials_interfaces/rosidl_adapter/ros2_tutorials_interfaces:srv/CustomCalc.idl"
+  ],
+  "include_paths": [
+    "service_msgs:/opt/ros/jazzy/share/service_msgs",
+    "builtin_interfaces:/opt/ros/jazzy/share/builtin_interfaces"
+  ]
+}

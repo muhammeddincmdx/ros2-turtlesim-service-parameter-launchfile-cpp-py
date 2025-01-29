@@ -1,0 +1,26 @@
+[2.111s] Invoking command in '/home/lenovo/Desktop/mogi_ws/src/ros2_tutorials_py': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/lenovo/Desktop/mogi_ws/build/ros2_tutorials_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/lenovo/Desktop/mogi_ws/install/ros2_tutorials_py/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ros2_tutorials_py build --build-base /home/lenovo/Desktop/mogi_ws/build/ros2_tutorials_py/build install --record /home/lenovo/Desktop/mogi_ws/build/ros2_tutorials_py/install.log --single-version-externally-managed install_data
+[3.154s] running egg_info
+[3.237s] writing ../../build/ros2_tutorials_py/ros2_tutorials_py.egg-info/PKG-INFO
+[3.238s] writing dependency_links to ../../build/ros2_tutorials_py/ros2_tutorials_py.egg-info/dependency_links.txt
+[3.239s] writing entry points to ../../build/ros2_tutorials_py/ros2_tutorials_py.egg-info/entry_points.txt
+[3.240s] writing requirements to ../../build/ros2_tutorials_py/ros2_tutorials_py.egg-info/requires.txt
+[3.240s] writing top-level names to ../../build/ros2_tutorials_py/ros2_tutorials_py.egg-info/top_level.txt
+[3.349s] reading manifest file '../../build/ros2_tutorials_py/ros2_tutorials_py.egg-info/SOURCES.txt'
+[3.354s] writing manifest file '../../build/ros2_tutorials_py/ros2_tutorials_py.egg-info/SOURCES.txt'
+[3.354s] running build
+[3.354s] running build_py
+[3.355s] copying ros2_tutorials_py/service_server.py -> /home/lenovo/Desktop/mogi_ws/build/ros2_tutorials_py/build/lib/ros2_tutorials_py
+[3.356s] running install
+[3.374s] running install_lib
+[3.414s] copying /home/lenovo/Desktop/mogi_ws/build/ros2_tutorials_py/build/lib/ros2_tutorials_py/service_server.py -> /home/lenovo/Desktop/mogi_ws/install/ros2_tutorials_py/lib/python3.12/site-packages/ros2_tutorials_py
+[3.416s] byte-compiling /home/lenovo/Desktop/mogi_ws/install/ros2_tutorials_py/lib/python3.12/site-packages/ros2_tutorials_py/service_server.py to service_server.cpython-312.pyc
+[3.417s] running install_data
+[3.418s] running install_egg_info
+[3.482s] removing '/home/lenovo/Desktop/mogi_ws/install/ros2_tutorials_py/lib/python3.12/site-packages/ros2_tutorials_py-0.0.0-py3.12.egg-info' (and everything under it)
+[3.482s] Copying ../../build/ros2_tutorials_py/ros2_tutorials_py.egg-info to /home/lenovo/Desktop/mogi_ws/install/ros2_tutorials_py/lib/python3.12/site-packages/ros2_tutorials_py-0.0.0-py3.12.egg-info
+[3.485s] running install_scripts
+[3.928s] Installing publisher_py script to /home/lenovo/Desktop/mogi_ws/install/ros2_tutorials_py/lib/ros2_tutorials_py
+[3.929s] Installing subscriber_py script to /home/lenovo/Desktop/mogi_ws/install/ros2_tutorials_py/lib/ros2_tutorials_py
+[3.929s] Installing template_publisher script to /home/lenovo/Desktop/mogi_ws/install/ros2_tutorials_py/lib/ros2_tutorials_py
+[3.930s] writing list of installed files to '/home/lenovo/Desktop/mogi_ws/build/ros2_tutorials_py/install.log'
+[4.039s] Invoked command in '/home/lenovo/Desktop/mogi_ws/src/ros2_tutorials_py' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/lenovo/Desktop/mogi_ws/build/ros2_tutorials_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/lenovo/Desktop/mogi_ws/install/ros2_tutorials_py/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ros2_tutorials_py build --build-base /home/lenovo/Desktop/mogi_ws/build/ros2_tutorials_py/build install --record /home/lenovo/Desktop/mogi_ws/build/ros2_tutorials_py/install.log --single-version-externally-managed install_data

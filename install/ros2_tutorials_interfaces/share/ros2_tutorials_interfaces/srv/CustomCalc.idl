@@ -1,0 +1,17 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from ros2_tutorials_interfaces/srv/CustomCalc.srv
+// generated code does not contain a copyright notice
+
+
+module ros2_tutorials_interfaces {
+  module srv {
+    struct CustomCalc_Request {
+      int64 a;
+
+      int64 b;
+    };
+    struct CustomCalc_Response {
+      int64 result;
+    };
+  };
+};

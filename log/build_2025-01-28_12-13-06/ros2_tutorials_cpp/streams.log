@@ -1,0 +1,63 @@
+[0.013s] Invoking command in '/home/lenovo/Desktop/mogi_ws/build/ros2_tutorials_cpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/lenovo/Desktop/mogi_ws/install/ros2_tutorials_py:/home/lenovo/Desktop/ws_camera/install/ros2_opencv:/home/lenovo/Desktop/ros2_ws/install/my_py_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/lenovo/Desktop/mogi_ws/src/ros2_tutorials_cpp -DCMAKE_INSTALL_PREFIX=/home/lenovo/Desktop/mogi_ws/install/ros2_tutorials_cpp
+[0.141s] -- The C compiler identification is GNU 13.3.0
+[0.229s] -- The CXX compiler identification is GNU 13.3.0
+[0.249s] -- Detecting C compiler ABI info
+[0.341s] -- Detecting C compiler ABI info - done
+[0.348s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.349s] -- Detecting C compile features
+[0.349s] -- Detecting C compile features - done
+[0.357s] -- Detecting CXX compiler ABI info
+[0.442s] -- Detecting CXX compiler ABI info - done
+[0.448s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.448s] -- Detecting CXX compile features
+[0.448s] -- Detecting CXX compile features - done
+[0.459s] -- Found ament_cmake: 2.5.3 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.579s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[0.687s] -- Found rclcpp: 28.1.6 (/opt/ros/jazzy/share/rclcpp/cmake)
+[0.729s] -- Found rosidl_generator_c: 4.6.5 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[0.741s] -- Found rosidl_generator_cpp: 4.6.5 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[0.755s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.770s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.836s] -- Found rmw_implementation_cmake: 7.3.1 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+[0.839s] -- Found rmw_fastrtps_cpp: 8.4.1 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+[0.938s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.13")  
+[0.955s] -- Found FastRTPS: /opt/ros/jazzy/include (Required is at least version "2.13") 
+[0.974s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.047s] -- Found std_msgs: 5.3.5 (/opt/ros/jazzy/share/std_msgs/cmake)
+[1.060s] -- Found ament_lint_auto: 0.17.1 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[1.141s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[1.142s] -- Configured cppcheck include dirs: 
+[1.142s] -- Configured cppcheck exclude dirs and/or files: 
+[1.142s] -- Added test 'lint_cmake' to check CMake code style
+[1.144s] -- Added test 'uncrustify' to check C / C++ code style
+[1.144s] -- Configured uncrustify additional arguments: 
+[1.144s] -- Added test 'xmllint' to check XML markup files
+[1.145s] -- Configuring done (1.1s)
+[1.152s] -- Generating done (0.0s)
+[1.154s] -- Build files have been written to: /home/lenovo/Desktop/mogi_ws/build/ros2_tutorials_cpp
+[1.161s] Invoked command in '/home/lenovo/Desktop/mogi_ws/build/ros2_tutorials_cpp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/lenovo/Desktop/mogi_ws/install/ros2_tutorials_py:/home/lenovo/Desktop/ws_camera/install/ros2_opencv:/home/lenovo/Desktop/ros2_ws/install/my_py_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/lenovo/Desktop/mogi_ws/src/ros2_tutorials_cpp -DCMAKE_INSTALL_PREFIX=/home/lenovo/Desktop/mogi_ws/install/ros2_tutorials_cpp
+[1.162s] Invoking command in '/home/lenovo/Desktop/mogi_ws/build/ros2_tutorials_cpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/lenovo/Desktop/mogi_ws/install/ros2_tutorials_py:/home/lenovo/Desktop/ws_camera/install/ros2_opencv:/home/lenovo/Desktop/ros2_ws/install/my_py_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/lenovo/Desktop/mogi_ws/build/ros2_tutorials_cpp -- -j12 -l12
+[1.202s] [ 50%] [32mBuilding CXX object CMakeFiles/publisher_cpp.dir/src/publisher.cpp.o[0m
+[3.889s] [100%] [32m[1mLinking CXX executable publisher_cpp[0m
+[4.019s] [100%] Built target publisher_cpp
+[4.032s] Invoked command in '/home/lenovo/Desktop/mogi_ws/build/ros2_tutorials_cpp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/lenovo/Desktop/mogi_ws/install/ros2_tutorials_py:/home/lenovo/Desktop/ws_camera/install/ros2_opencv:/home/lenovo/Desktop/ros2_ws/install/my_py_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/lenovo/Desktop/mogi_ws/build/ros2_tutorials_cpp -- -j12 -l12
+[4.043s] Invoking command in '/home/lenovo/Desktop/mogi_ws/build/ros2_tutorials_cpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/lenovo/Desktop/mogi_ws/install/ros2_tutorials_py:/home/lenovo/Desktop/ws_camera/install/ros2_opencv:/home/lenovo/Desktop/ros2_ws/install/my_py_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/lenovo/Desktop/mogi_ws/build/ros2_tutorials_cpp
+[4.048s] -- Install configuration: ""
+[4.048s] -- Installing: /home/lenovo/Desktop/mogi_ws/install/ros2_tutorials_cpp/lib/ros2_tutorials_cpp/publisher_cpp
+[4.049s] -- Set non-toolchain portion of runtime path of "/home/lenovo/Desktop/mogi_ws/install/ros2_tutorials_cpp/lib/ros2_tutorials_cpp/publisher_cpp" to ""
+[4.049s] -- Installing: /home/lenovo/Desktop/mogi_ws/install/ros2_tutorials_cpp/share/ament_index/resource_index/package_run_dependencies/ros2_tutorials_cpp
+[4.049s] -- Installing: /home/lenovo/Desktop/mogi_ws/install/ros2_tutorials_cpp/share/ament_index/resource_index/parent_prefix_path/ros2_tutorials_cpp
+[4.049s] -- Installing: /home/lenovo/Desktop/mogi_ws/install/ros2_tutorials_cpp/share/ros2_tutorials_cpp/environment/ament_prefix_path.sh
+[4.049s] -- Installing: /home/lenovo/Desktop/mogi_ws/install/ros2_tutorials_cpp/share/ros2_tutorials_cpp/environment/ament_prefix_path.dsv
+[4.049s] -- Installing: /home/lenovo/Desktop/mogi_ws/install/ros2_tutorials_cpp/share/ros2_tutorials_cpp/environment/path.sh
+[4.049s] -- Installing: /home/lenovo/Desktop/mogi_ws/install/ros2_tutorials_cpp/share/ros2_tutorials_cpp/environment/path.dsv
+[4.049s] -- Installing: /home/lenovo/Desktop/mogi_ws/install/ros2_tutorials_cpp/share/ros2_tutorials_cpp/local_setup.bash
+[4.049s] -- Installing: /home/lenovo/Desktop/mogi_ws/install/ros2_tutorials_cpp/share/ros2_tutorials_cpp/local_setup.sh
+[4.050s] -- Installing: /home/lenovo/Desktop/mogi_ws/install/ros2_tutorials_cpp/share/ros2_tutorials_cpp/local_setup.zsh
+[4.050s] -- Installing: /home/lenovo/Desktop/mogi_ws/install/ros2_tutorials_cpp/share/ros2_tutorials_cpp/local_setup.dsv
+[4.050s] -- Installing: /home/lenovo/Desktop/mogi_ws/install/ros2_tutorials_cpp/share/ros2_tutorials_cpp/package.dsv
+[4.050s] -- Installing: /home/lenovo/Desktop/mogi_ws/install/ros2_tutorials_cpp/share/ament_index/resource_index/packages/ros2_tutorials_cpp
+[4.050s] -- Installing: /home/lenovo/Desktop/mogi_ws/install/ros2_tutorials_cpp/share/ros2_tutorials_cpp/cmake/ros2_tutorials_cppConfig.cmake
+[4.050s] -- Installing: /home/lenovo/Desktop/mogi_ws/install/ros2_tutorials_cpp/share/ros2_tutorials_cpp/cmake/ros2_tutorials_cppConfig-version.cmake
+[4.050s] -- Installing: /home/lenovo/Desktop/mogi_ws/install/ros2_tutorials_cpp/share/ros2_tutorials_cpp/package.xml
+[4.051s] Invoked command in '/home/lenovo/Desktop/mogi_ws/build/ros2_tutorials_cpp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/lenovo/Desktop/mogi_ws/install/ros2_tutorials_py:/home/lenovo/Desktop/ws_camera/install/ros2_opencv:/home/lenovo/Desktop/ros2_ws/install/my_py_pkg:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/lenovo/Desktop/mogi_ws/build/ros2_tutorials_cpp

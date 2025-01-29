@@ -1,0 +1,26 @@
+{
+  "type_description_msg": {
+    "type_description": {
+      "type_name": "ros2_tutorials_interfaces/srv/CustomCalc_Response",
+      "fields": [
+        {
+          "name": "result",
+          "type": {
+            "type_id": 8,
+            "capacity": 0,
+            "string_capacity": 0,
+            "nested_type_name": ""
+          },
+          "default_value": ""
+        }
+      ]
+    },
+    "referenced_type_descriptions": []
+  },
+  "type_hashes": [
+    {
+      "type_name": "ros2_tutorials_interfaces/srv/CustomCalc_Response",
+      "hash_string": "RIHS01_7a9a8228240ec1207d2b129a59ff6a77bde0970040a023f417482e006f137fb6"
+    }
+  ]
+}
